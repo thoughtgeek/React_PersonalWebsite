@@ -1,0 +1,128 @@
+{
+  "main": {
+    "name":"Surya Banerjee",
+    "occupation":"Web  Developer",
+    "description":"Enthusiastic and Always learning!",
+    "image":"profilepic.jpg",
+    "bio":"I am another amateur recent graduate web developer fluent in HTML/JS/CSS looking for a challenging role.",
+    "phone": "+91-8437195033",
+    "address":{
+      "street":"DLF City",
+      "city":"Gurgaon",
+      "state":"Haryana",
+      "zip": "122002"
+    },
+    "website": "http://www.thoughtgeek.com",
+    "resumedownload":"http://thoughtgeek.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/Surya.Banerjee",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/SuryaBuffered",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"google-plus",
+        "url":"http://googleplus.com/",
+        "className":"fa fa-google-plus"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/surya-banerjee-2200a856/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/wellitismesurya/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/thoughtgeek",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"https://join.skype.com/aWe5dJsD4sIl",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Self taught programmer with some rough edges",
+    "education":[
+      {
+        "school":"LPU",
+        "degree":"Bachelors in Electronics and Communication Engineering",
+        "graduated":"2018",
+        "description":"Went through university with major in Embedded Systems"
+      }],
+     
+    "work":[
+      {
+        "company":"Google AdWords",
+        "title":"AdWords Analyst",
+        "years":"1 year",
+        "description":"Was responsible for AdWords account optimization, SEM Specialist"
+      },
+      {
+        "company":"Mobisy",
+        "title":"Implimentation Engineer",
+        "years":"1 year",
+        "description":"Worked on FrontEnd and BackEnd according to requirement"
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"50%"
+      },
+      {
+        "name":"JavaScript",
+        "level":"60%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"65%"
+      },
+      {
+        "name":"CSS",
+        "level":"70%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"NodeJs",
+        "level":"70%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"60%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Personal Website",
+        "category":"ReactJs based personal website",
+        "image":"personal.png",
+        "url":"https://www.github.com/thoughtgeek/React_PersonalWebsite"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"He is a great addition to the team. Wish him best of luck in his next endevour.",
+        "user":"Lalit Bhise, CEO Mobisy"
+      }
+    ]
+  }
+}
