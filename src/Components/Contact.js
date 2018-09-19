@@ -92,8 +92,8 @@ class Contact extends Component {
                   <ul id="blog">
                      <li>
                         <span>
-                        This is a blog post about anybody to learn how about the basics of Generative Adverserial Networks(GAN).
-                        <a href="#">http://t.co/CGIrdxIlI3</a>
+                        Deploying your ReactJS App on your AWS EC2 instance using Nginx and setting up Jenkins for continuous integration whenever you make a commit using webhooks
+                        <a href="#">https://medium.com/@ssbannerjee/deploying-your-reactjs-app-on-your-domain-using-nginx-and-setting-up-jenkins-for-continuous-288e8d1bf90</a>
                         </span>
                         <b><a href="#">2 Days Ago</a></b>
                      </li>
