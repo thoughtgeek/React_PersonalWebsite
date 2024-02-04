@@ -1,4 +1,4 @@
-** Old version, not used anymore **
+** Deprecated: Old version, not used anymore **
 <h1 style="text-align: center;"><strong>React Personal Website</strong></h1>
 <p>&nbsp;</p>
 <p style="text-align: center;">This is my personal website which is available at <a href="http://www.thoughtgeek.com">www.thoughtgeek.com</a></p>
